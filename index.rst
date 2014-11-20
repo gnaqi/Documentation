@@ -11,6 +11,7 @@ This is Ghada Alnaqi
 Contents:
 
 .. toctree::
+   intro
    :maxdepth: 2
 
 
